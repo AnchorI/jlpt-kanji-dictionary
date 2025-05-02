@@ -1,0 +1,1373 @@
+[
+  {
+    "type": "gikun",
+    "meaning": "gikun (meaning as reading) or jukujikun (special kanji reading)"
+  },
+  {
+    "type": "ik",
+    "meaning": "word containing irregular kana usage"
+  },
+  {
+    "type": "ok",
+    "meaning": "out-dated or obsolete kana usage"
+  },
+  {
+    "type": "rk",
+    "meaning": "rarely used kana form"
+  },
+  {
+    "type": "sk",
+    "meaning": "search-only kana form"
+  },
+  {
+    "type": "ateji",
+    "meaning": "ateji (phonetic) reading"
+  },
+  {
+    "type": "iK",
+    "meaning": "word containing irregular kanji usage"
+  },
+  {
+    "type": "io",
+    "meaning": "irregular okurigana usage"
+  },
+  {
+    "type": "oK",
+    "meaning": "word containing out-dated kanji or kanji usage"
+  },
+  {
+    "type": "rK",
+    "meaning": "rarely used kanji form"
+  },
+  {
+    "type": "sK",
+    "meaning": "search-only kanji form"
+  },
+  {
+    "type": "abbr",
+    "meaning": "abbreviation"
+  },
+  {
+    "type": "arch",
+    "unknown": "archaism",
+    "meaning": "archaic"
+  },
+  {
+    "type": "char",
+    "unknown": "name",
+    "meaning": "character"
+  },
+  {
+    "type": "chn",
+    "meaning": "children's language"
+  },
+  {
+    "type": "col",
+    "meaning": "colloquial"
+  },
+  {
+    "type": "company",
+    "unknown": "name",
+    "meaning": "company name"
+  },
+  {
+    "type": "creat",
+    "unknown": "name",
+    "meaning": "creature"
+  },
+  {
+    "type": "dated",
+    "unknown": "archaism",
+    "meaning": "dated term"
+  },
+  {
+    "type": "dei",
+    "unknown": "name",
+    "meaning": "deity"
+  },
+  {
+    "type": "derog",
+    "meaning": "derogatory"
+  },
+  {
+    "type": "doc",
+    "unknown": "name",
+    "meaning": "document"
+  },
+  {
+    "type": "euph",
+    "meaning": "euphemistic"
+  },
+  {
+    "type": "ev",
+    "unknown": "name",
+    "meaning": "event"
+  },
+  {
+    "type": "fam",
+    "meaning": "familiar language"
+  },
+  {
+    "type": "fem",
+    "unknown": "name",
+    "meaning": "female term or language"
+  },
+  {
+    "type": "fict",
+    "unknown": "name",
+    "meaning": "fiction"
+  },
+  {
+    "type": "form",
+    "meaning": "formal or literary term"
+  },
+  {
+    "type": "given",
+    "unknown": "name",
+    "meaning": "given name or forename, gender not specified"
+  },
+  {
+    "type": "group",
+    "unknown": "name",
+    "meaning": "group"
+  },
+  {
+    "type": "hist",
+    "meaning": "historical term"
+  },
+  {
+    "type": "hon",
+    "meaning": "honorific or respectful (sonkeigo) language"
+  },
+  {
+    "type": "hum",
+    "meaning": "humble (kenjougo) language"
+  },
+  {
+    "type": "id",
+    "unknown": "expression",
+    "meaning": "idiomatic expression"
+  },
+  {
+    "type": "joc",
+    "meaning": "jocular, humorous term"
+  },
+  {
+    "type": "leg",
+    "unknown": "name",
+    "meaning": "legend"
+  },
+  {
+    "type": "m-sl",
+    "meaning": "manga slang"
+  },
+  {
+    "type": "male",
+    "unknown": "name",
+    "meaning": "male term or language"
+  },
+  {
+    "type": "masc",
+    "unknown": "name",
+    "meaning": ""
+  },
+  {
+    "type": "myth",
+    "unknown": "name",
+    "meaning": "mythology"
+  },
+  {
+    "type": "net-sl",
+    "meaning": "Internet slang"
+  },
+  {
+    "type": "obj",
+    "unknown": "name",
+    "meaning": "object"
+  },
+  {
+    "type": "obs",
+    "unknown": "archaism",
+    "meaning": "obsolete term"
+  },
+  {
+    "type": "on-mim",
+    "meaning": "onomatopoeic or mimetic word"
+  },
+  {
+    "type": "organization",
+    "unknown": "name",
+    "meaning": "organization name"
+  },
+  {
+    "type": "oth",
+    "unknown": "name",
+    "meaning": "other"
+  },
+  {
+    "type": "person",
+    "unknown": "name",
+    "meaning": "full name of a particular person"
+  },
+  {
+    "type": "place",
+    "unknown": "name",
+    "meaning": "place name"
+  },
+  {
+    "type": "poet",
+    "meaning": "poetical term"
+  },
+  {
+    "type": "pol",
+    "meaning": "polite (teineigo) language"
+  },
+  {
+    "type": "product",
+    "unknown": "name",
+    "meaning": "product name"
+  },
+  {
+    "type": "proverb",
+    "unknown": "expression",
+    "meaning": "proverb"
+  },
+  {
+    "type": "quote",
+    "unknown": "expression",
+    "meaning": "quotation"
+  },
+  {
+    "type": "rare",
+    "unknown": "archaism",
+    "meaning": "rare term"
+  },
+  {
+    "type": "relig",
+    "unknown": "name",
+    "meaning": "religion"
+  },
+  {
+    "type": "sens",
+    "meaning": "sensitive"
+  },
+  {
+    "type": "serv",
+    "unknown": "name",
+    "meaning": "service"
+  },
+  {
+    "type": "ship",
+    "unknown": "name",
+    "meaning": "ship name"
+  },
+  {
+    "type": "sl",
+    "meaning": "slang"
+  },
+  {
+    "type": "station",
+    "unknown": "name",
+    "meaning": "railway station"
+  },
+  {
+    "type": "surname",
+    "unknown": "name",
+    "meaning": "family or surname"
+  },
+  {
+    "type": "uk",
+    "meaning": "word usually written using kana alone"
+  },
+  {
+    "type": "unclass",
+    "unknown": "name",
+    "meaning": "unclassified name"
+  },
+  {
+    "type": "vulg",
+    "meaning": "vulgar expression or word"
+  },
+  {
+    "type": "work",
+    "unknown": "name",
+    "meaning": "work of art, literature, music, etc. name"
+  },
+  {
+    "type": "X",
+    "meaning": "rude or X-rated term (not displayed in educational software)"
+  },
+  {
+    "type": "yoji",
+    "meaning": "yojijukugo"
+  },
+  {
+    "type": "adj-f",
+    "meaning": "noun or verb acting prenominally"
+  },
+  {
+    "type": "adj-i",
+    "meaning": "adjective (keiyoushi)"
+  },
+  {
+    "type": "adj-ix",
+    "meaning": "adjective (keiyoushi) - yoi/ii class"
+  },
+  {
+    "type": "adj-kari",
+    "meaning": "'kari' adjective (archaic)"
+  },
+  {
+    "type": "adj-ku",
+    "meaning": "'ku' adjective (archaic)"
+  },
+  {
+    "type": "adj-na",
+    "meaning": "adjectival nouns or quasi-adjectives (keiyodoshi)"
+  },
+  {
+    "type": "adj-nari",
+    "meaning": "archaic/formal form of na-adjective"
+  },
+  {
+    "type": "adj-no",
+    "meaning": "nouns which may take the genitive case particle 'no'"
+  },
+  {
+    "type": "adj-pn",
+    "meaning": "pre-noun adjectival (rentaishi)"
+  },
+  {
+    "type": "adj-shiku",
+    "meaning": "'shiku' adjective (archaic)"
+  },
+  {
+    "type": "adj-t",
+    "meaning": "'taru' adjective"
+  },
+  {
+    "type": "adv",
+    "meaning": "adverb (fukushi)"
+  },
+  {
+    "type": "adv-to",
+    "meaning": "adverb taking the 'to' particle"
+  },
+  {
+    "type": "aux",
+    "meaning": "auxiliary"
+  },
+  {
+    "type": "aux-adj",
+    "meaning": "auxiliary adjective"
+  },
+  {
+    "type": "aux-v",
+    "meaning": "auxiliary verb"
+  },
+  {
+    "type": "conj",
+    "meaning": "conjunction"
+  },
+  {
+    "type": "cop",
+    "meaning": "copula"
+  },
+  {
+    "type": "ctr",
+    "meaning": "counter"
+  },
+  {
+    "type": "exp",
+    "unknown": "expression",
+    "meaning": "expressions (phrases, clauses, etc.)"
+  },
+  {
+    "type": "int",
+    "meaning": "interjection (kandoushi)"
+  },
+  {
+    "type": "n",
+    "meaning": "noun (common) (futsuumeishi)"
+  },
+  {
+    "type": "n-adv",
+    "meaning": "adverbial noun (fukushitekimeishi)"
+  },
+  {
+    "type": "n-pr",
+    "meaning": "proper noun"
+  },
+  {
+    "type": "n-pref",
+    "meaning": "noun, used as a prefix"
+  },
+  {
+    "type": "n-suf",
+    "meaning": "noun, used as a suffix"
+  },
+  {
+    "type": "n-t",
+    "meaning": "noun (temporal) (jisoumeishi)"
+  },
+  {
+    "type": "num",
+    "meaning": "numeric"
+  },
+  {
+    "type": "pn",
+    "meaning": "pronoun"
+  },
+  {
+    "type": "pref",
+    "meaning": "prefix"
+  },
+  {
+    "type": "prt",
+    "meaning": "particle"
+  },
+  {
+    "type": "suf",
+    "meaning": "suffix"
+  },
+  {
+    "type": "unc",
+    "meaning": "unclassified"
+  },
+  {
+    "type": "v-unspec",
+    "meaning": "verb unspecified"
+  },
+  {
+    "type": "v1",
+    "meaning": "Ichidan verb"
+  },
+  {
+    "type": "v1-s",
+    "meaning": "Ichidan verb - kureru special class"
+  },
+  {
+    "type": "v2a-s",
+    "meaning": "Nidan verb with 'u' ending (archaic)"
+  },
+  {
+    "type": "v2b-k",
+    "meaning": "Nidan verb (upper class) with 'bu' ending (archaic)"
+  },
+  {
+    "type": "v2b-s",
+    "meaning": "Nidan verb (lower class) with 'bu' ending (archaic)"
+  },
+  {
+    "type": "v2d-k",
+    "meaning": "Nidan verb (upper class) with 'dzu' ending (archaic)"
+  },
+  {
+    "type": "v2d-s",
+    "meaning": "Nidan verb (lower class) with 'dzu' ending (archaic)"
+  },
+  {
+    "type": "v2g-k",
+    "meaning": "Nidan verb (upper class) with 'gu' ending (archaic)"
+  },
+  {
+    "type": "v2g-s",
+    "meaning": "Nidan verb (lower class) with 'gu' ending (archaic)"
+  },
+  {
+    "type": "v2h-k",
+    "meaning": "Nidan verb (upper class) with 'hu/fu' ending (archaic)"
+  },
+  {
+    "type": "v2h-s",
+    "meaning": "Nidan verb (lower class) with 'hu/fu' ending (archaic)"
+  },
+  {
+    "type": "v2k-k",
+    "meaning": "Nidan verb (upper class) with 'ku' ending (archaic)"
+  },
+  {
+    "type": "v2k-s",
+    "meaning": "Nidan verb (lower class) with 'ku' ending (archaic)"
+  },
+  {
+    "type": "v2m-k",
+    "meaning": "Nidan verb (upper class) with 'mu' ending (archaic)"
+  },
+  {
+    "type": "v2m-s",
+    "meaning": "Nidan verb (lower class) with 'mu' ending (archaic)"
+  },
+  {
+    "type": "v2n-s",
+    "meaning": "Nidan verb (lower class) with 'nu' ending (archaic)"
+  },
+  {
+    "type": "v2r-k",
+    "meaning": "Nidan verb (upper class) with 'ru' ending (archaic)"
+  },
+  {
+    "type": "v2r-s",
+    "meaning": "Nidan verb (lower class) with 'ru' ending (archaic)"
+  },
+  {
+    "type": "v2s-s",
+    "meaning": "Nidan verb (lower class) with 'su' ending (archaic)"
+  },
+  {
+    "type": "v2t-k",
+    "meaning": "Nidan verb (upper class) with 'tsu' ending (archaic)"
+  },
+  {
+    "type": "v2t-s",
+    "meaning": "Nidan verb (lower class) with 'tsu' ending (archaic)"
+  },
+  {
+    "type": "v2w-s",
+    "meaning": "Nidan verb (lower class) with 'u' ending and 'we' conjugation (archaic)"
+  },
+  {
+    "type": "v2y-k",
+    "meaning": "Nidan verb (upper class) with 'yu' ending (archaic)"
+  },
+  {
+    "type": "v2y-s",
+    "meaning": "Nidan verb (lower class) with 'yu' ending (archaic)"
+  },
+  {
+    "type": "v2z-s",
+    "meaning": "Nidan verb (lower class) with 'zu' ending (archaic)"
+  },
+  {
+    "type": "v4b",
+    "meaning": "Yodan verb with 'bu' ending (archaic)"
+  },
+  {
+    "type": "v4g",
+    "meaning": "Yodan verb with 'gu' ending (archaic)"
+  },
+  {
+    "type": "v4h",
+    "meaning": "Yodan verb with 'hu/fu' ending (archaic)"
+  },
+  {
+    "type": "v4k",
+    "meaning": "Yodan verb with 'ku' ending (archaic)"
+  },
+  {
+    "type": "v4m",
+    "meaning": "Yodan verb with 'mu' ending (archaic)"
+  },
+  {
+    "type": "v4n",
+    "meaning": "Yodan verb with 'nu' ending (archaic)"
+  },
+  {
+    "type": "v4r",
+    "meaning": "Yodan verb with 'ru' ending (archaic)"
+  },
+  {
+    "type": "v4s",
+    "meaning": "Yodan verb with 'su' ending (archaic)"
+  },
+  {
+    "type": "v4t",
+    "meaning": "Yodan verb with 'tsu' ending (archaic)"
+  },
+  {
+    "type": "v5aru",
+    "meaning": "Godan verb - -aru special class"
+  },
+  {
+    "type": "v5b",
+    "meaning": "Godan verb with 'bu' ending"
+  },
+  {
+    "type": "v5g",
+    "meaning": "Godan verb with 'gu' ending"
+  },
+  {
+    "type": "v5k",
+    "meaning": "Godan verb with 'ku' ending"
+  },
+  {
+    "type": "v5k-s",
+    "meaning": "Godan verb - Iku/Yuku special class"
+  },
+  {
+    "type": "v5m",
+    "meaning": "Godan verb with 'mu' ending"
+  },
+  {
+    "type": "v5n",
+    "meaning": "Godan verb with 'nu' ending"
+  },
+  {
+    "type": "v5r",
+    "meaning": "Godan verb with 'ru' ending"
+  },
+  {
+    "type": "v5r-i",
+    "meaning": "Godan verb with 'ru' ending (irregular verb)"
+  },
+  {
+    "type": "v5s",
+    "meaning": "Godan verb with 'su' ending"
+  },
+  {
+    "type": "v5t",
+    "meaning": "Godan verb with 'tsu' ending"
+  },
+  {
+    "type": "v5u",
+    "meaning": "Godan verb with 'u' ending"
+  },
+  {
+    "type": "v5u-s",
+    "meaning": "Godan verb with 'u' ending (special class)"
+  },
+  {
+    "type": "v5uru",
+    "meaning": "Godan verb - Uru old class verb (old form of Eru)"
+  },
+  {
+    "type": "vi",
+    "meaning": "intransitive verb"
+  },
+  {
+    "type": "vk",
+    "meaning": "Kuru verb - special class"
+  },
+  {
+    "type": "vn",
+    "meaning": "irregular nu verb"
+  },
+  {
+    "type": "vr",
+    "meaning": "irregular ru verb, plain form ends with -ri"
+  },
+  {
+    "type": "vs",
+    "meaning": "noun or participle which takes the aux. verb suru"
+  },
+  {
+    "type": "vs-c",
+    "meaning": "su verb - precursor to the modern suru"
+  },
+  {
+    "type": "vs-i",
+    "meaning": "suru verb - included"
+  },
+  {
+    "type": "vs-s",
+    "meaning": "suru verb - special class"
+  },
+  {
+    "type": "vt",
+    "meaning": "transitive verb"
+  },
+  {
+    "type": "vz",
+    "meaning": "Ichidan verb - zuru verb (alternative form of -jiru verbs)"
+  },
+  {
+    "type": "agric",
+    "meaning": "agriculture"
+  },
+  {
+    "type": "anat",
+    "meaning": "anatomy"
+  },
+  {
+    "type": "archeol",
+    "meaning": "archeology"
+  },
+  {
+    "type": "archit",
+    "meaning": "architecture"
+  },
+  {
+    "type": "art",
+    "meaning": "art, aesthetics"
+  },
+  {
+    "type": "astron",
+    "meaning": "astronomy"
+  },
+  {
+    "type": "audvid",
+    "meaning": "audiovisual"
+  },
+  {
+    "type": "aviat",
+    "meaning": "aviation"
+  },
+  {
+    "type": "baseb",
+    "meaning": "baseball"
+  },
+  {
+    "type": "biochem",
+    "meaning": "biochemistry"
+  },
+  {
+    "type": "biol",
+    "meaning": "biology"
+  },
+  {
+    "type": "bot",
+    "meaning": "botany"
+  },
+  {
+    "type": "boxing",
+    "meaning": "boxing"
+  },
+  {
+    "type": "Buddh",
+    "meaning": "Buddhism"
+  },
+  {
+    "type": "bus",
+    "meaning": "business"
+  },
+  {
+    "type": "cards",
+    "meaning": "card games"
+  },
+  {
+    "type": "chem",
+    "meaning": "chemistry"
+  },
+  {
+    "type": "chmyth",
+    "meaning": "Chinese mythology"
+  },
+  {
+    "type": "Christn",
+    "meaning": "Christianity"
+  },
+  {
+    "type": "civeng",
+    "meaning": "civil engineering"
+  },
+  {
+    "type": "cloth",
+    "meaning": "clothing"
+  },
+  {
+    "type": "comp",
+    "meaning": "computing"
+  },
+  {
+    "type": "cryst",
+    "meaning": "crystallography"
+  },
+  {
+    "type": "dent",
+    "meaning": "dentistry"
+  },
+  {
+    "type": "ecol",
+    "meaning": "ecology"
+  },
+  {
+    "type": "econ",
+    "meaning": "economics"
+  },
+  {
+    "type": "elec",
+    "meaning": "electricity, elec. eng."
+  },
+  {
+    "type": "electr",
+    "meaning": "electronics"
+  },
+  {
+    "type": "embryo",
+    "meaning": "embryology"
+  },
+  {
+    "type": "engr",
+    "meaning": "engineering"
+  },
+  {
+    "type": "ent",
+    "meaning": "entomology"
+  },
+  {
+    "type": "figskt",
+    "meaning": "figure skating"
+  },
+  {
+    "type": "film",
+    "meaning": "film"
+  },
+  {
+    "type": "finc",
+    "meaning": "finance"
+  },
+  {
+    "type": "fish",
+    "meaning": "fishing"
+  },
+  {
+    "type": "food",
+    "meaning": "food, cooking"
+  },
+  {
+    "type": "gardn",
+    "meaning": "gardening, horticulture"
+  },
+  {
+    "type": "genet",
+    "meaning": "genetics"
+  },
+  {
+    "type": "geogr",
+    "meaning": "geography"
+  },
+  {
+    "type": "geol",
+    "meaning": "geology"
+  },
+  {
+    "type": "geom",
+    "meaning": "geometry"
+  },
+  {
+    "type": "go",
+    "meaning": "go (game)"
+  },
+  {
+    "type": "golf",
+    "meaning": "golf"
+  },
+  {
+    "type": "gramm",
+    "meaning": "grammar"
+  },
+  {
+    "type": "grmyth",
+    "meaning": "Greek mythology"
+  },
+  {
+    "type": "hanaf",
+    "meaning": "hanafuda"
+  },
+  {
+    "type": "horse",
+    "meaning": "horse racing"
+  },
+  {
+    "type": "internet",
+    "meaning": "Internet"
+  },
+  {
+    "type": "jpmyth",
+    "meaning": "Japanese mythology"
+  },
+  {
+    "type": "kabuki",
+    "meaning": "kabuki"
+  },
+  {
+    "type": "law",
+    "meaning": "law"
+  },
+  {
+    "type": "ling",
+    "meaning": "linguistics"
+  },
+  {
+    "type": "logic",
+    "meaning": "logic"
+  },
+  {
+    "type": "MA",
+    "meaning": "martial arts"
+  },
+  {
+    "type": "mahj",
+    "meaning": "mahjong"
+  },
+  {
+    "type": "manga",
+    "meaning": "manga"
+  },
+  {
+    "type": "math",
+    "meaning": "mathematics"
+  },
+  {
+    "type": "mech",
+    "meaning": "mechanical engineering"
+  },
+  {
+    "type": "med",
+    "meaning": "medicine"
+  },
+  {
+    "type": "met",
+    "meaning": "meteorology"
+  },
+  {
+    "type": "mil",
+    "meaning": "military"
+  },
+  {
+    "type": "min",
+    "meaning": "mineralogy"
+  },
+  {
+    "type": "mining",
+    "meaning": "mining"
+  },
+  {
+    "type": "motor",
+    "meaning": "motorsport"
+  },
+  {
+    "type": "music",
+    "meaning": "music"
+  },
+  {
+    "type": "noh",
+    "meaning": "noh"
+  },
+  {
+    "type": "ornith",
+    "meaning": "ornithology"
+  },
+  {
+    "type": "paleo",
+    "meaning": "paleontology"
+  },
+  {
+    "type": "pathol",
+    "meaning": "pathology"
+  },
+  {
+    "type": "pharm",
+    "meaning": "pharmacology"
+  },
+  {
+    "type": "phil",
+    "meaning": "philosophy"
+  },
+  {
+    "type": "photo",
+    "meaning": "photography"
+  },
+  {
+    "type": "physics",
+    "meaning": "physics"
+  },
+  {
+    "type": "physiol",
+    "meaning": "physiology"
+  },
+  {
+    "type": "politics",
+    "meaning": "politics"
+  },
+  {
+    "type": "print",
+    "meaning": "printing"
+  },
+  {
+    "type": "prowres",
+    "meaning": "professional wrestling"
+  },
+  {
+    "type": "psy",
+    "meaning": "psychiatry"
+  },
+  {
+    "type": "psyanal",
+    "meaning": "psychoanalysis"
+  },
+  {
+    "type": "psych",
+    "meaning": "psychology"
+  },
+  {
+    "type": "rail",
+    "meaning": "railway"
+  },
+  {
+    "type": "rommyth",
+    "meaning": "Roman mythology"
+  },
+  {
+    "type": "Shinto",
+    "meaning": "Shinto"
+  },
+  {
+    "type": "shogi",
+    "meaning": "shogi"
+  },
+  {
+    "type": "ski",
+    "meaning": "skiing"
+  },
+  {
+    "type": "sports",
+    "meaning": "sports"
+  },
+  {
+    "type": "stat",
+    "meaning": "statistics"
+  },
+  {
+    "type": "stockm",
+    "meaning": "stock market"
+  },
+  {
+    "type": "sumo",
+    "meaning": "sumo"
+  },
+  {
+    "type": "surg",
+    "meaning": "surgery"
+  },
+  {
+    "type": "telec",
+    "meaning": "telecommunications"
+  },
+  {
+    "type": "tradem",
+    "meaning": "trademark"
+  },
+  {
+    "type": "tv",
+    "meaning": "television"
+  },
+  {
+    "type": "vet",
+    "meaning": "veterinary terms"
+  },
+  {
+    "type": "vidg",
+    "meaning": "video games"
+  },
+  {
+    "type": "zool",
+    "meaning": "zoology"
+  },
+  {
+    "type": "bra",
+    "meaning": "Brazilian"
+  },
+  {
+    "type": "hob",
+    "meaning": "Hokkaido-ben"
+  },
+  {
+    "type": "ksb",
+    "meaning": "Kansai-ben"
+  },
+  {
+    "type": "ktb",
+    "meaning": "Kantou-ben"
+  },
+  {
+    "type": "kyb",
+    "meaning": "Kyoto-ben"
+  },
+  {
+    "type": "kyu",
+    "meaning": "Kyuushuu-ben"
+  },
+  {
+    "type": "nab",
+    "meaning": "Nagano-ben"
+  },
+  {
+    "type": "osb",
+    "meaning": "Osaka-ben"
+  },
+  {
+    "type": "rkb",
+    "meaning": "Ryuukyuu-ben"
+  },
+  {
+    "type": "thb",
+    "meaning": "Touhoku-ben"
+  },
+  {
+    "type": "tsb",
+    "meaning": "Tosa-ben"
+  },
+  {
+    "type": "tsug",
+    "meaning": "Tsugaru-ben"
+  },
+  {
+    "type": "1",
+    "meaning": "JMdict Sense #1"
+  },
+  {
+    "type": "2",
+    "meaning": "JMdict Sense #2"
+  },
+  {
+    "type": "3",
+    "meaning": "JMdict Sense #3"
+  },
+  {
+    "type": "4",
+    "meaning": "JMdict Sense #4"
+  },
+  {
+    "type": "5",
+    "meaning": "JMdict Sense #5"
+  },
+  {
+    "type": "6",
+    "meaning": "JMdict Sense #6"
+  },
+  {
+    "type": "7",
+    "meaning": "JMdict Sense #7"
+  },
+  {
+    "type": "8",
+    "meaning": "JMdict Sense #8"
+  },
+  {
+    "type": "9",
+    "meaning": "JMdict Sense #9"
+  },
+  {
+    "type": "10",
+    "meaning": "JMdict Sense #10"
+  },
+  {
+    "type": "11",
+    "meaning": "JMdict Sense #11"
+  },
+  {
+    "type": "12",
+    "meaning": "JMdict Sense #12"
+  },
+  {
+    "type": "13",
+    "meaning": "JMdict Sense #13"
+  },
+  {
+    "type": "14",
+    "meaning": "JMdict Sense #14"
+  },
+  {
+    "type": "15",
+    "meaning": "JMdict Sense #15"
+  },
+  {
+    "type": "16",
+    "meaning": "JMdict Sense #16"
+  },
+  {
+    "type": "17",
+    "meaning": "JMdict Sense #17"
+  },
+  {
+    "type": "18",
+    "meaning": "JMdict Sense #18"
+  },
+  {
+    "type": "19",
+    "meaning": "JMdict Sense #19"
+  },
+  {
+    "type": "20",
+    "meaning": "JMdict Sense #20"
+  },
+  {
+    "type": "21",
+    "meaning": "JMdict Sense #21"
+  },
+  {
+    "type": "22",
+    "meaning": "JMdict Sense #22"
+  },
+  {
+    "type": "23",
+    "meaning": "JMdict Sense #23"
+  },
+  {
+    "type": "24",
+    "meaning": "JMdict Sense #24"
+  },
+  {
+    "type": "25",
+    "meaning": "JMdict Sense #25"
+  },
+  {
+    "type": "26",
+    "meaning": "JMdict Sense #26"
+  },
+  {
+    "type": "news1k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 1 and 1,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news2k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 1,000 and 2,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news3k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 2,000 and 3,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news4k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 3,000 and 4,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news5k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 4,000 and 5,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news6k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 5,000 and 6,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news7k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 6,000 and 7,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news8k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 7,000 and 8,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news9k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 8,000 and 9,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news10k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 9,000 and 10,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news11k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 10,000 and 11,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news12k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 11,000 and 12,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news13k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 12,000 and 13,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news14k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 13,000 and 14,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news15k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 14,000 and 15,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news16k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 15,000 and 16,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news17k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 16,000 and 17,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news18k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 17,000 and 18,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news19k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 18,000 and 19,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news20k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 19,000 and 20,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news21k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 20,000 and 21,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news22k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 21,000 and 22,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news23k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 22,000 and 23,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "news24k",
+    "unknown": "frequent",
+    "meaning": "ranked between the top 23,000 and 24,000 words in a frequency analysis of the Mainichi Shimbun (1990s)"
+  },
+  {
+    "type": "⭐",
+    "unknown": "popular",
+    "meaning": "high priority term"
+  },
+  {
+    "type": "R",
+    "unknown": "archaism",
+    "meaning": "rarely-used kanji form of this expression"
+  },
+  {
+    "type": "r",
+    "unknown": "archaism",
+    "meaning": "rarely-used kana form of this expression"
+  },
+  {
+    "type": "⚠️",
+    "unknown": "archaism",
+    "meaning": "irregular form of this expression"
+  },
+  {
+    "type": "⛬",
+    "unknown": "archaism",
+    "meaning": "outdated form of this expression"
+  },
+  {
+    "type": "ichi",
+    "unknown": "frequent",
+    "meaning": "included in Ichimango Goi Bunruishuu (１万語語彙分類集)"
+  },
+  {
+    "type": "spec",
+    "unknown": "frequent",
+    "meaning": "specified as common by JMdict editors"
+  },
+  {
+    "type": "gai",
+    "unknown": "frequent",
+    "meaning": "common loanword (gairaigo・外来語)"
+  },
+  {
+    "type": "forms",
+    "meaning": "other surface forms and readings"
+  }
+]
